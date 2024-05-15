@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66c5c7ea.css",
+    "main.js": "/static/js/main.a102be3d.js",
+    "static/media/Questrial-Regular.ttf": "/static/media/Questrial-Regular.8268e81790f4302669b7.ttf",
+    "static/media/404.png": "/static/media/404.27df96fefd06d8c3b5b0.png",
+    "index.html": "/index.html",
+    "main.66c5c7ea.css.map": "/static/css/main.66c5c7ea.css.map",
+    "main.a102be3d.js.map": "/static/js/main.a102be3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66c5c7ea.css",
+    "static/js/main.a102be3d.js"
+  ]
+}
